@@ -9,7 +9,7 @@ Stumbled on my github, hey?
 
 <img src="https://emojis.slackmojis.com/emojis/images/1572027770/6897/blob_pin.png?1572027770" width="auto" height=30/> Currently, I'm a Web Dev Intern @ Shopify, studying CS @ Carleton!
 
-
+Send me an ✉️ &nbsp; [email](mailto:gina@ginabak.com) or find me on instagram [@gina_bak](https://www.instagram.com/gina_bak/)
 
 <!--
 🔭 I’m currently working on ...
