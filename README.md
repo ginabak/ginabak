@@ -7,7 +7,7 @@ Stumbled on my github, hey?
 
 <img src="https://emojis.slackmojis.com/emojis/images/1572027836/6914/blob_smile_open_mouth2.png?1572027836" width="auto" height=30/>   I'm here to learn, play, experiment!
 
-<img src="https://emojis.slackmojis.com/emojis/images/1572027770/6897/blob_pin.png?1572027770" width="auto" height=30/> Currently, I'm a Web Dev Intern @ Shopify, studying CS @ Carleton!
+<img src="https://emojis.slackmojis.com/emojis/images/1572027770/6897/blob_pin.png?1572027770" width="auto" height=30/> Currently, I'm a Mobile (React Native) Dev Intern @ Shopify, studying CS @ Carleton!
 
 Find me [@gina_bak](https://www.instagram.com/gina_bak/)
 
